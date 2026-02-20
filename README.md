@@ -147,10 +147,11 @@ B.Tech CSE(AIML) Student
 
 ## 📚 References
 
-* UCI Machine Learning Repository
-* Scikit-Learn Documentation
-* Streamlit Documentation
+*[Kaggle Machine Learning](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
+* [Scikit-Learn Documentation](https://scikit-learn.org/stable/)
+* [Streamlit Documentation](https://docs.streamlit.io/)
 
 ---
 
 ⭐ If you like this project, don't forget to star the repository!
+
