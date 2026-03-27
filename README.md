@@ -107,6 +107,12 @@ The application shows:
 * Diabetes Probability
 * Feature Distribution Graph
 * Risk Level Graph
+  <img width="784" height="730" alt="Screenshot 2026-03-28 005400" src="https://github.com/user-attachments/assets/805f52f2-cafb-4b16-a00a-4daf9579fb64" /> <img width="765" height="611" alt="Screenshot 2026-03-28 005416" src="https://github.com/user-attachments/assets/eb54c45d-1359-430f-ac9a-a4d6a8724866" />
+  <img width="1897" height="766" alt="Screenshot 2026-03-28 005456" src="https://github.com/user-attachments/assets/0eeaf41f-7f78-450e-894c-9a1753b4acd0" /> <img width="1224" height="823" alt="Screenshot 2026-03-28 005620" src="https://github.com/user-attachments/assets/82bb0543-cb82-4424-80f8-c1224da5c065" />
+
+
+
+
 
 ---
 
