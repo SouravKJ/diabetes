@@ -103,7 +103,7 @@ After running, the app will open automatically in your browser.
 
 The application shows:
 
-* Prediction Result
+* Prediction Result(Accuracy:77.92% & Recall:78%)
 * Diabetes Probability
 * Feature Distribution Graph
 * Risk Level Graph
